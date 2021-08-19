@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Smart_circle/static/css/main.d3ebab34.chunk.css",
+    "main.js": "/Smart_circle/static/js/main.1014d75d.chunk.js",
+    "main.js.map": "/Smart_circle/static/js/main.1014d75d.chunk.js.map",
+    "runtime-main.js": "/Smart_circle/static/js/runtime-main.95f8116b.js",
+    "runtime-main.js.map": "/Smart_circle/static/js/runtime-main.95f8116b.js.map",
+    "static/css/2.818011ed.chunk.css": "/Smart_circle/static/css/2.818011ed.chunk.css",
+    "static/js/2.ee19b254.chunk.js": "/Smart_circle/static/js/2.ee19b254.chunk.js",
+    "static/js/2.ee19b254.chunk.js.map": "/Smart_circle/static/js/2.ee19b254.chunk.js.map",
+    "static/js/3.ed812a7b.chunk.js": "/Smart_circle/static/js/3.ed812a7b.chunk.js",
+    "static/js/3.ed812a7b.chunk.js.map": "/Smart_circle/static/js/3.ed812a7b.chunk.js.map",
+    "index.html": "/Smart_circle/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Smart_circle/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.d3ebab34.chunk.css.map": "/Smart_circle/static/css/main.d3ebab34.chunk.css.map",
+    "static/js/2.ee19b254.chunk.js.LICENSE.txt": "/Smart_circle/static/js/2.ee19b254.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/Smart_circle/static/media/blue.375b3ef9.jpg",
+    "static/media/code.56e5a3c0.jpg": "/Smart_circle/static/media/code.56e5a3c0.jpg",
+    "static/media/Smartdeal.css": "/Smart_circle/static/media/leaf.a29f56dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f8116b.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.ee19b254.chunk.js",
+    "static/css/main.d3ebab34.chunk.css",
+    "static/js/main.1014d75d.chunk.js"
+  ]
+}
