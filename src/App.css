@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  font-family:  Poppinss;
+}
+
+.pt_70{
+    padding-top: 65px;
+}
+.pb_45{
+  padding-bottom: 45px !important;
+}
+
+.pt_45{
+  padding-top: 45px !important;
+}

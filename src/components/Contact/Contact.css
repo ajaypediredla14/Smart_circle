@@ -1,0 +1,75 @@
+.bg_image{
+  background-image: url("./blue.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: absolute;
+  background-position: center center;
+  background-attachment: fixed;
+  margin-top: 1px;
+  height: 900px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  background-size: 100% 100%;
+  background-size: cover  ;
+}
+
+h1 {
+   border-bottom: 1px solid white;
+   color: #3d3d3d;
+   font-family: sans-serif;
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 24px;
+   padding: 10px;
+   text-align: center;
+ }
+
+ h2{
+  color: white !important;
+ }
+
+ form {
+   font-family: Times !important;
+   background: white;
+   border: 1px solid #dedede;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   margin: 0 auto;
+   max-width: 500px;
+   padding: 10px 20px;
+ }
+
+ input {
+   border: 1px solid #00008B;
+   color: #006400;
+   border-radius: 4px;
+   box-sizing: border-box;
+   padding: 7px;
+   width: 100%;
+ }
+
+ label {
+   color: #00008B;
+   display: block;
+   font-family: Times;
+   font-size: 18px;
+   font-weight: 500;
+   margin-top: 5px;
+   margin-bottom: 2px;
+ }
+
+ .submitButton {
+   background-color: #6976d9;
+   color: white;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin: 20px 0px;
+ }
+
+
